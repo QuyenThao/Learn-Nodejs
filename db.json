@@ -1,11 +1,6 @@
 {
   "users": [
     {
-      "name": "quyen",
-      "phone": "024885845",
-      "id": "Y-7txWLy9"
-    },
-    {
       "name": "Anne",
       "phone": "0856455144",
       "id": "NncZFtj3S"
@@ -18,6 +13,8 @@
     {
       "name": "Quyen",
       "phone": "012594566",
+      "email": "quyen123@gmail.com",
+      "password": "123456789",
       "id": "l5aCDfg0z"
     },
     {
@@ -49,6 +46,21 @@
       "name": "Anna",
       "phone": "012589952",
       "id": "bCpCubGsw"
+    },
+    {
+      "name": "Airi",
+      "phone": "02598744781",
+      "id": "biIUDPLOV"
+    },
+    {
+      "name": "Cecil",
+      "phone": "0204808438",
+      "id": "1RlHxsGg8"
+    },
+    {
+      "name": "Pertia",
+      "phone": "012589455",
+      "id": "fUq3NNcFW"
     }
   ]
 }
