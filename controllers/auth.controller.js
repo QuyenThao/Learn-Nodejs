@@ -29,6 +29,6 @@ module.exports.postLogin = function(req, res) {
         });
         return;
     };
-
+    res.cookie('userId', user.id)
     res.redirect('/users');
 }
