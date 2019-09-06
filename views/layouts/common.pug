@@ -17,4 +17,7 @@ nav.navbar.navbar-expand-lg.navbar-light.bg-light
             | Home 
             span.sr-only
           a.nav-item.nav-link(href='/users') Users
+
+      if user
+        p= user.name
 block content
