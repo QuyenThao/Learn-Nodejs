@@ -1,2 +1,4 @@
 node_modules/
 cls
+db.json
+.env
